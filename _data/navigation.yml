@@ -1,12 +1,16 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Spatial memory"
+    url: /spatial-memory/
+  - title: "Technology"
+    url: /technology/
+  - title: "Translation"
+    url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "People"
+    url: /sample-page/
+  - title: "Blog"
+    url: /collection-archive/
+  - title: "Resources"
+    url: /sitemap/
+  - title: "Contact"
+    url: /sitemap/
